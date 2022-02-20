@@ -1,6 +1,6 @@
 package com.cusehack.safe_home.dao.beans;
 
-import com.cusehack.safe_home.dao.constant.CrimeTypeEnum;
+import com.cusehack.safe_home.constant.CrimeTypeEnum;
 
 import java.util.Date;
 

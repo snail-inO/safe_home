@@ -1,7 +1,7 @@
 package com.cusehack.safe_home.util;
 
 import com.alibaba.fastjson.JSON;
-import com.cusehack.safe_home.dao.constant.ErrorEnum;
+import com.cusehack.safe_home.constant.ErrorEnum;
 
 
 public class Json {

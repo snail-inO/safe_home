@@ -1,7 +1,7 @@
 spring:
   datasource:
     username: snail_ino
-    password:
+    password: HBwkaY8btmQCMm2jvzjU5w
     url: jdbc:postgresql://free-tier.gcp-us-central1.cockroachlabs.cloud:26257/first-exp-5622.safe_home?sslmode=verify-full&sslrootcert=C:\Users\bgy42\AppData\Roaming\.postgresql\root.crt
     driver-class-name: org.postgresql.Driver
   redis:

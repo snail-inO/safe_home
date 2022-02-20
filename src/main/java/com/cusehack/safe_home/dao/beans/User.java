@@ -10,10 +10,23 @@ public class User {
     private long honestyId;
     private int roleId;
 
-    public User(long uid, String userName, String password) {
+    public User(long uid, String userName, String password, String phone, String email, boolean isAuthenticated, long honestyId, int roleId) {
         this.uid = uid;
         this.userName = userName;
         this.password = password;
+        this.phone = phone;
+        this.email = email;
+        this.isAuthenticated = isAuthenticated;
+        this.honestyId = honestyId;
+        this.roleId = roleId;
+    }
+
+    public User(long uid, String userName, String password, long honestyId) {
+        this.uid = uid;
+        this.userName = userName;
+        this.password = password;
+        this.honestyId = honestyId;
+        this.isAuthenticated = true;
     }
 
     public long getUid() {

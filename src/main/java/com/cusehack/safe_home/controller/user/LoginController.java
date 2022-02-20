@@ -1,6 +1,6 @@
 package com.cusehack.safe_home.controller.user;
 
-import com.cusehack.safe_home.dao.constant.ErrorEnum;
+import com.cusehack.safe_home.constant.ErrorEnum;
 import com.cusehack.safe_home.dao.mapper.UserMapper;
 import com.cusehack.safe_home.service.LoginServiceImpl;
 import com.cusehack.safe_home.util.Json;
