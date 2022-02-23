@@ -29,6 +29,7 @@ A Web App that alerts people for possible crimes
 - Database: CockroachDB
 - Crime data: Syracuse Open Data
 - SMS: Twillio
+- Map: Google Map API
 
 ## Sprints
 
